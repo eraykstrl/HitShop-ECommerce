@@ -30,7 +30,8 @@ The app is built using **Jetpack Compose** with **MVVM Clean Architecture** and 
 | Async | Coroutines, LiveData |
 | State Management | State & MutableState |
 | Database | Room |
-| English And Turkish language support |
+| Networking & APIs | Retrofit, Web Services, Room |
+| English And Turkish language support | Yes |
 
 ---
 
