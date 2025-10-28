@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HitShop</string>
+    <string name="first_topbar_text">HitShop</string>
+    <string name="add_to_card">Sepete Ekle</string>
+    <string name="search_text">Ürün Ara</string>
+    <string name="quantity_reduce">Ürün miktarını 1 azalt</string>
+    <string name="quantity_increase">Ürün miktarını 1 arttır</string>
+    <string name="go_main_screen">Ana ekrana geç</string>
+    <string name="go_cart_screen">Sepete Ekle Sayfasına Geç</string>
+    <string name="home_screen_text">Anasayfa</string>
+    <string name="mycart_screen_text">Sepetim</string>
+    <string name="delete_from_cart">Sepetteki ürünü sil</string>
+    <string name="snackbar_text">Son ürünü de çıkarmak istediğinize emin misiniz? Ürün sepetten kaldırılacak</string>
+    <string name="snackbar_action_label">Evet</string>
+    <string name="order_button_text">Sipariş Et</string>
+    <string name="total_order_text">Toplam Sipariş Ücreti</string>
+    <string name="add_to_favorite">Favorilere Ekle</string>
+    <string name="my_favorites">Favorilerim</string>
+    <string name="go_my_favorites">Favorilerime Git</string>
+    <string name="favorite_alert_text">Henüz favorilerinizde ürün yok</string>
+    <string name="delete_all_alert">Ürünlerin hepsini silmek istediğinize emin misiniz?</string>
+    <string name="search_product_text">Ürün ara</string>
+</resources>

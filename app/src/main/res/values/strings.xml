@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HitShop</string>
+    <string name="first_topbar_text">HitShop</string>
+    <string name="add_to_card">Add to Cart</string>
+    <string name="search_text">Search Product</string>
+    <string name="quantity_reduce">Decrease product quantity by 1</string>
+    <string name="quantity_increase">Increase product quantity by 1</string>
+    <string name="go_main_screen">Go to Main Screen</string>
+    <string name="go_cart_screen">Go to Cart Screen</string>
+    <string name="home_screen_text">Home</string>
+    <string name="mycart_screen_text">My Cart</string>
+    <string name="delete_from_cart">Remove product from cart</string>
+    <string name="snackbar_text">Are you sure you want to remove the last product? It will be removed from the cart</string>
+    <string name="snackbar_action_label">Yes</string>
+    <string name="order_button_text">Place Order</string>
+    <string name="total_order_text">Total Order Price</string>
+    <string name="add_to_favorite">Add to Favorites</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="go_my_favorites">Go to My Favorites</string>
+    <string name="favorite_alert_text">You don’t have any products in your favorites yet</string>
+    <string name="delete_all_alert">Are you sure you want to delete all products?</string>
+    <string name="search_product_text">Search Product</string>
+</resources>
