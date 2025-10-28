@@ -30,12 +30,9 @@ The app is built using **Jetpack Compose** with **MVVM Clean Architecture** and 
 | Async | Coroutines, LiveData |
 | State Management | State & MutableState |
 | Database | Room |
-<<<<<<< HEAD
 | Networking & APIs | Retrofit, Web Services, Room |
 | English And Turkish language support | Yes |
-=======
-| English And Turkish language support |
->>>>>>> d9255f8 (MainViewmodel has uploaded for improving UI)
+
 
 ---
 
@@ -65,12 +62,6 @@ The project follows **MVVM Clean Architecture**, consisting of:
 - **UI Layer (Compose)** — reactive UI using State and observing LiveData
 - **ViewModels** — each screen has its own ViewModel, manages LiveData
 - **Data Layer** — repositories, data sources, and entities
-
-=======
-- **UI Layer (Compose)** — reactive UI using State and LiveData
-- **Data Layer** — repositories, data sources,entity
-- **ViewModel Layer** viewmodels for every screen
->>>>>>> d9255f8 (MainViewmodel has uploaded for improving UI)
 
 This structure improves testability, scalability, and maintainability.
 
