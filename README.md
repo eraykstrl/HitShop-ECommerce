@@ -56,8 +56,8 @@ The app is built using **Jetpack Compose** with **MVVM Clean Architecture** and 
 
 ### Architecture
 The project follows **MVVM Clean Architecture**, consisting of:
-- **UI Layer (Compose)** — reactive UI using State and LiveData
-- **ViewModels** — viewmodel for every screen
+- **UI Layer (Compose)** — reactive UI using State,getting value of LiveData
+- **ViewModels** — viewmodel for every screen, setting value of LiveData
 - **Data Layer** — repositories, datasources,entity
 
 This structure improves testability, scalability, and maintainability.
