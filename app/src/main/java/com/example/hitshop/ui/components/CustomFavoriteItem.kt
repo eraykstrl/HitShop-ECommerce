@@ -14,7 +14,10 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Favorite
+<<<<<<< HEAD
 import androidx.compose.material.icons.filled.FavoriteBorder
+=======
+>>>>>>> d9255f8 (MainViewmodel has uploaded for improving UI)
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon

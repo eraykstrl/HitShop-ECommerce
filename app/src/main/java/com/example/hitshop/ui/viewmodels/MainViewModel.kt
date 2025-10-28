@@ -31,7 +31,10 @@ class MainViewModel @Inject constructor(
         isLoadingLiveData.value = true
         CoroutineScope(Dispatchers.Main).launch {
             productLiveData.value = hitShopRepository.getAllProducts()
+<<<<<<< HEAD
             delay(1000)
+=======
+>>>>>>> d9255f8 (MainViewmodel has uploaded for improving UI)
             isLoadingLiveData.value = false
         }
     }
@@ -64,7 +67,10 @@ class MainViewModel @Inject constructor(
         CoroutineScope(Dispatchers.Main).launch {
             hitShopRepository.deleteFavorites(favorite_id = favorite_id)
             getAllFavorites()
+<<<<<<< HEAD
             isLoadingLiveData.value = false
+=======
+>>>>>>> d9255f8 (MainViewmodel has uploaded for improving UI)
         }
     }
 
