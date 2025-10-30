@@ -4,10 +4,6 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Favorite
-<<<<<<< HEAD
-import androidx.compose.material.icons.filled.FavoriteBorder
-=======
->>>>>>> d9255f8 (MainViewmodel has uploaded for improving UI)
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.ShoppingCart
 import androidx.compose.material3.BottomAppBar
