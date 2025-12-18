@@ -1,9 +1,6 @@
 package com.example.hitshop.ui.components
 
-<<<<<<< HEAD
-import androidx.compose.foundation.layout.fillMaxSize
-=======
->>>>>>> d9255f8 (MainViewmodel has uploaded for improving UI)
+
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Search

@@ -1,9 +1,5 @@
 package com.example.hitshop.ui.screens
 
-<<<<<<< HEAD
-import android.util.Log
-=======
->>>>>>> d9255f8 (MainViewmodel has uploaded for improving UI)
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -19,11 +15,6 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.livedata.observeAsState
-<<<<<<< HEAD
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.remember
-=======
->>>>>>> d9255f8 (MainViewmodel has uploaded for improving UI)
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
